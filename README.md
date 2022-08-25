@@ -5,3 +5,4 @@
 - Solament d'aquelles plantes que tinguin un ítem comprovar que no baixen de l'stock mínim
 
 __Ja està fet. Recordar que la direcció a la base de dades del node `sqlite` s'ha de canviar.__
+*Observacions:* `flows-final.json` conté tots els flows
