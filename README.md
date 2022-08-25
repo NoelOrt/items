@@ -4,4 +4,4 @@
 - Comprovar que en efecte editi correctament l'stock
 - Solament d'aquelles plantes que tinguin un ítem comprovar que no baixen de l'stock mínim
 
-__Ja està fet. Recordar que la direcció a base de dades del node SQLITE s'ha de canviar.__
+__Ja està fet. Recordar que la direcció a la base de dades del node `sqlite` s'ha de canviar__
